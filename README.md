@@ -10,5 +10,5 @@
     <li>Javascript</li>
 </ul>
 
-<img src="Images/snap.png" width="50%">
+<img src="images/snap.png" width="50%">
 
