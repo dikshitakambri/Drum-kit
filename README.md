@@ -12,3 +12,7 @@
 
 <img src="images/snap.png" width="50%">
 
+<br>
+
+[![Github All Releases](https://img.shields.io/github/downloads/dikshitakambri/Drum-kit/total.svg)]()
+
